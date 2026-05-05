@@ -160,9 +160,10 @@ Feel free to reach out!
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=internet-explorer&logoColor=white)](https://hassnainkhan1249.github.io/hassnain-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassnain-khan-097609318/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hassnainkhan1249)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassnain32222@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassnain32222000@gmail.com)
 
 </div>
 
