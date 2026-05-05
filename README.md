@@ -135,6 +135,63 @@ A university research project on automated machine learning model selection.
 
 ---
 
+## 🏅 Certifications & Achievements
+
+- 📜 Meta Social Media Marketing Professional Certificate — Coursera / Meta *(In Progress)*
+- 🎓 Bachelor's in Computer Engineering — Bahria University *(Currently Enrolled)*
+- 🎓 GitHub Education Student Developer Pack — Approved
+- 🤖 GitHub Copilot Student Access — Activated
+- 💻 Built AI-powered LinkedIn tool prototypes for comment and post generation
+- 🧩 Developed Chrome extension concepts for LinkedIn productivity
+- 🌐 Created a responsive personal portfolio website
+- 📊 Developed an AutoML / Machine Learning model selection academic project using Streamlit
+- 📝 Prepared IEEE-style academic research documentation
+- 🚀 Started building a professional GitHub portfolio for internships, freelance projects, and future software/AI roles
+
+---
+
+## 💼 Work Experience
+
+### Communications & Digital Presence Support  
+**PMEye Management Consulting, Intl.**
+
+- Supporting professional branding and digital communication activities
+- Assisting with online visibility, LinkedIn updates, and public announcements
+- Helping improve digital presence through website, social media, and communication content
+- Supporting project-related communication materials and professional documentation
+
+### Student Developer / Personal Project Builder  
+**Independent Projects**
+
+- Building AI-powered browser extension prototypes and student-focused productivity tools
+- Working on LinkedIn automation tools, portfolio websites, and AI-assisted web projects
+- Practicing project documentation, GitHub repository management, and README writing
+- Exploring practical software solutions for students, professionals, and small businesses
+
+---
+
+## 📈 Open Source Contributions
+
+I am currently building my GitHub portfolio and preparing to contribute to open-source projects.
+
+- 🔍 Exploring beginner-friendly open-source repositories
+- 🛠️ Interested in contributing to AI tools, web apps, Chrome extensions, and student productivity projects
+- 📌 Future contributions will be listed here
+
+---
+
+## 📝 Latest Blog Posts & Articles
+
+I am currently preparing technical and learning-based content related to AI tools, web development, GitHub, and student productivity.
+
+**Planned Topics:**
+- How I built my first AI-powered Chrome extension
+- Lessons from building LinkedIn productivity tools
+- GitHub portfolio tips for Computer Engineering students
+- Using AI tools to improve student productivity
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -142,6 +199,24 @@ A university research project on automated machine learning model selection.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassnainkhan1249&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassnainkhan1249&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hassnainkhan1249&theme=tokyonight)
+
+</div>
+
+---
+
+## 🧰 GitHub Badges & Metrics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hassnainkhan1249&color=blueviolet)
+
+![GitHub followers](https://img.shields.io/github/followers/Hassnainkhan1249?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/Hassnainkhan1249?style=social)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hassnainkhan1249&theme=tokyonight&no-frame=true&margin-w=15)
 
 </div>
 
@@ -166,6 +241,35 @@ Feel free to reach out!
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassnain32222000@gmail.com)
 
 </div>
+
+---
+
+## 🤝 Let's Collaborate
+
+I am open to:
+
+- 💻 Internship opportunities
+- 🧩 Freelance web development projects
+- 🤖 AI-powered tool development
+- 🌐 Chrome extension projects
+- 📚 Student productivity applications
+- 🔧 Open-source contributions
+- 🚀 Collaboration on practical AI and web-based projects
+
+If you are working on a meaningful software, AI, web, or student-focused project, I would be happy to connect!
+
+---
+
+## 📚 Technical Resources & Upcoming Content
+
+I plan to share useful resources, tutorials, and project write-ups as I continue building my portfolio.
+
+**Upcoming Guides:**
+- Building an AI LinkedIn Comment Writer Chrome Extension
+- Creating a GitHub Profile README as a Computer Engineering Student
+- Deploying a Portfolio Website using GitHub Pages
+- Using Streamlit for Machine Learning Projects
+- Beginner Guide to Chrome Extension Development
 
 ---
 
