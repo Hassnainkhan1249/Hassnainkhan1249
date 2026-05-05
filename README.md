@@ -192,31 +192,35 @@ I am currently preparing technical and learning-based content related to AI tool
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassnainkhan1249&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassnainkhan1249&layout=compact&theme=tokyonight&hide_border=true)
+<!-- GitHub Stats - Will display once repositories are added -->
+[![Hassnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassnainkhan1249&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Hassnainkhan1249)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hassnainkhan1249&theme=tokyonight)
+<!-- Top Languages - Will display once code is pushed -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassnainkhan1249&layout=compact&theme=tokyonight)](https://github.com/Hassnainkhan1249)
 
 </div>
 
 ---
 
-## 🧰 GitHub Badges & Metrics
+## 🧰 GitHub Metrics & Trophies
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hassnainkhan1249&color=blueviolet)
 
-![GitHub followers](https://img.shields.io/github/followers/Hassnainkhan1249?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Hassnainkhan1249?style=social&label=Followers)
 
-![GitHub User's stars](https://img.shields.io/github/stars/Hassnainkhan1249?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Hassnainkhan1249?style=social&label=Stars)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hassnainkhan1249&theme=tokyonight&no-frame=true&margin-w=15)
+</div>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hassnainkhan1249&theme=tokyonight&no-frame=true&margin-w=15&row=2)
 
 </div>
 
